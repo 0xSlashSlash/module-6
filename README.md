@@ -1,17 +1,11 @@
 # module-6
 
-Part 1: Create a Financial Planner for Emergencies
+Calculate and Plot the Housing Units per Year
 
-Evaluate the Cryptocurrency Wallet by Using the Requests Library
+Calculate and Plot the Average Sale Prices per Square Foot
 
-Evaluate the Stock and Bond Holdings by Using the Alpaca SDK
+Compare the Average Sale Prices by Neighborhood
 
-Evaluate the Emergency Fund
+Build an Interactive Neighborhood Map
 
-Part 2: Create a Financial Planner for Retirement
-
-Create the Monte Carlo Simulation
-
-Analyze the Retirement Portfolio Forecasts
-
-Forecast Cumulative Returns in 10 Years
+Compose Your Data Story
